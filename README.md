@@ -1,0 +1,2 @@
+# Python7
+Wages
